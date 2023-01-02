@@ -98,11 +98,7 @@ It is also called a lazy learner algorithm because it does not learn from the tr
 CONFUSION MATRIX:
 Figure depicts the confusion matrix or evaluation matrix. The confusion matrix is a tool for evaluating the performance of machine learning classification algorithms. The confusion matrix has been used to test the efficiency of all models created. The confusion matrix illustrates how often our models forecast correctly and how often they estimate incorrectly. False positives and false negatives have been allocated to badly predicted values, whereas true positives and true negatives were assigned to properly anticipated values. The model’s accuracy, precision-recall trade-off, and AUC were utilized to assess its performance after grouping all predicted values in the matrix. 
 
-
-
-
-
-
+![7633381 fig 008](https://user-images.githubusercontent.com/107709451/210205154-9c5555d5-de86-48fc-a53c-1892253732c8.png)
       Fig: Confusion matrix
 
 
