@@ -82,10 +82,7 @@ The most common disease identified in the medical field is stroke, which is on t
 1) RANDOM FOREST:
 The classification algorithm chosen was RF classification. RFs are composed of numerous independent decision trees that were trained individually on a random sample of data. These trees are created during training, and the decision trees’ outputs are collected. A process termed voting is used to determine the final forecast made by this algorithm. Each DT in this method must vote for one of the two output classes (in this case, stroke or no stroke). The final prediction is determined by the RF method, which chooses the class with the most votes. 
 
-
-
-
-
+![7633381 fig 004](https://user-images.githubusercontent.com/107709451/210204998-a384248b-20db-481a-9b36-c5541b699cb9.png)
 
 Fig: Random forest classification
 
