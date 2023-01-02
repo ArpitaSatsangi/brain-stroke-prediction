@@ -1,3 +1,12 @@
+ABSTRACT
+
+Stroke is a medical disorder in which the blood arteries in the brain are ruptured, causing damage to the brain. When the supply of blood and other nutrients to the brain is interrupted, symptoms might develop. According to the World Health Organization (WHO), stroke is the greatest cause of death and disability globally. Early recognition of the various warning signs of a stroke can help reduce the severity of the stroke. Different machine learning (ML) models have been developed to predict the likelihood of a stroke occurring in the brain.
+
+The dataset used in the development of the method was the open-access Stroke Prediction dataset. It is used to predict whether a patient is likely to get stroke based on the  input parameters like age, various diseases, bmi, average glucose level and smoking status. 
+
+K-nearest neighbor and random forest algorithm are used in the dataset. The accuracy of both the algorithms are 95.62% and 95.21% respectively. 
+
+
 1. INTRODUCTION
 
 
