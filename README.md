@@ -42,14 +42,13 @@ The output column 'stroke' has the value as either '1' or '0'. The value '0' ind
 
  
  
-# TECHNOLOGY USED
+# TECHNOLOGY USED ( SOFTWARE )
 
-SOFTWARE
-1. JUPYTER NOTEBOOK- The Jupyter Notebook is an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text. Jupyter Notebook is maintained by the people at Project Jupyter .
+## 1. JUPYTER NOTEBOOK- The Jupyter Notebook is an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text. Jupyter Notebook is maintained by the people at Project Jupyter .
 	
-2. PYTHON- Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages. Python can be used for developing complex scientific and numeric applications. Python is designed with features to facilitate data analysis and visualization.
+## 2. PYTHON- Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages. Python can be used for developing complex scientific and numeric applications. Python is designed with features to facilitate data analysis and visualization.
 
-3. LIBRARIES-  The libraries used are as follow:
+## 3. LIBRARIES-  The libraries used are as follow:
 •	Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language. It is built on top of the NumPy library. Pandas is fast and it has high performance & productivity for users.
 •	NumPy stands for Numerical Python. It is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices. It is an open source project and you can use it freely.
 •	SKlearn stands for scikit-learn is the most useful and robust library for machine learning in Python. It provides a selection of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction via a consistence interface in Python.
@@ -79,14 +78,14 @@ After Data Preprocessing, the dataset is split into train and test data(train-39
 # IMPLEMENTED ALGORITHMS
 
 The most common disease identified in the medical field is stroke, which is on the rise year after year. Using the publicly accessible stroke prediction dataset, it measured two commonly used machine learning methods for predicting brain stroke recurrence, which are as follows:(i)Random forest (ii)K-Nearest neighbors.
-1) RANDOM FOREST:
+## 1) RANDOM FOREST:
 The classification algorithm chosen was RF classification. RFs are composed of numerous independent decision trees that were trained individually on a random sample of data. These trees are created during training, and the decision trees’ outputs are collected. A process termed voting is used to determine the final forecast made by this algorithm. Each DT in this method must vote for one of the two output classes (in this case, stroke or no stroke). The final prediction is determined by the RF method, which chooses the class with the most votes. 
 
 ![7633381 fig 004](https://user-images.githubusercontent.com/107709451/210204998-a384248b-20db-481a-9b36-c5541b699cb9.png)
 
 Fig: Random forest classification
 
-2) K-NEAREST NEIGHBORS:
+## 2) K-NEAREST NEIGHBORS:
 K-Nearest Neighbor is one of the simplest Machine Learning algorithms based on Supervised Learning technique. K-NN algorithm assumes the similarity between the new data and available cases and put the new case into the category that is most similar to the available categories. K-NN algorithm stores all the available data and classifies a new data point based on the similarity. This means when new data appears then it can be easily classified into a well suite category by using it. 
 
 ![knn](https://user-images.githubusercontent.com/107709451/210204634-a75db9a5-8692-4166-afc8-3fee8a02ab55.PNG) 
