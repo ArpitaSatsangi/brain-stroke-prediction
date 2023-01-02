@@ -92,6 +92,7 @@ Fig: Random forest classification
 2) K-NEAREST NEIGHBORS:
 K-Nearest Neighbor is one of the simplest Machine Learning algorithms based on Supervised Learning technique. K-NN algorithm assumes the similarity between the new data and available cases and put the new case into the category that is most similar to the available categories. K-NN algorithm stores all the available data and classifies a new data point based on the similarity. This means when new data appears then it can be easily classified into a well suite category by using it. 
 
+![knn](https://user-images.githubusercontent.com/107709451/210204634-a75db9a5-8692-4166-afc8-3fee8a02ab55.PNG) 
 
 Fig: K-Nearest neighbors
 
