@@ -55,14 +55,10 @@ SOFTWARE
  
 # METHODOLOGY 
 
-
-
-
-
-
-
+![draw io ](https://user-images.githubusercontent.com/107709451/210204151-66a00a69-1370-4319-8c04-c925ebb4dce8.jpeg)
 
 Fig: Methodology  
+
 
 First the dataset is downloaded from the kaggle website.  The necessary libraries like Pandas, NumPy, etc. are imported. Then the data  is read using pandas.
 
