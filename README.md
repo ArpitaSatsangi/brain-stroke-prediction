@@ -44,11 +44,14 @@ The output column 'stroke' has the value as either '1' or '0'. The value '0' ind
  
 # TECHNOLOGY USED ( SOFTWARE )
 
-## 1. JUPYTER NOTEBOOK- The Jupyter Notebook is an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text. Jupyter Notebook is maintained by the people at Project Jupyter .
+## 1. JUPYTER NOTEBOOK - 
+The Jupyter Notebook is an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text. Jupyter Notebook is maintained by the people at Project Jupyter .
 	
-## 2. PYTHON- Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages. Python can be used for developing complex scientific and numeric applications. Python is designed with features to facilitate data analysis and visualization.
+## 2. PYTHON - 
+Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages. Python can be used for developing complex scientific and numeric applications. Python is designed with features to facilitate data analysis and visualization.
 
-## 3. LIBRARIES-  The libraries used are as follow:
+## 3. LIBRARIES-  
+The libraries used are as follow:
 •	Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language. It is built on top of the NumPy library. Pandas is fast and it has high performance & productivity for users.
 •	NumPy stands for Numerical Python. It is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices. It is an open source project and you can use it freely.
 •	SKlearn stands for scikit-learn is the most useful and robust library for machine learning in Python. It provides a selection of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction via a consistence interface in Python.
